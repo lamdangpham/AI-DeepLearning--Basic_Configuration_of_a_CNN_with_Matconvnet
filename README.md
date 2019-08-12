@@ -2,9 +2,12 @@
 
 - 01_Code
   + init_cnn.m : Configuration of CNN
+  
       Input : An Image [64x64]
-      Ouptut put: 10 (classes      
-      Output of layers:  
+      
+      Ouptut put: 10 (classes)
+      
+      Output of every layers:  
              
       + Input:  [64x64]
       + Conv01: [64x64x32]
